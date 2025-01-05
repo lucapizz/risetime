@@ -4,13 +4,13 @@ formulas memo
 
 il tempo di salita è quello impiegato per passare dal 10% al 90% del livello di un segnale.
 
+la lunghezza d'onda è l'inverso del tempo di salita.
+
 la velocià di propagazione di un segnale elettrico in un cavo coassiale vale circa il 66% della
 velocità della luce ossia 300000000 * 0,66 = 200000000 m/s circa.
 
 in linea di massima la lunghezza di una linea di trasmissione per non creare riflessioni dovrebbe
 essere inferiore a un quarto (1/4) della lunghezza d'onda del segnale.
-
-la lunghezza d'onda è l'inverso del temo di salita.
 
 lunghezzamax = 200000000 * t / 4
 
