@@ -20,3 +20,16 @@ pari a
 50000000 * 0,0000002 = 10 metri
 
 oltre la quale ho bisogno di terminare la linea.
+
+Quanto suddetto è una stima, infatti possiamo anche stimare la distanza con un modo diverso.
+
+Usando la frequenza si ottiene
+
+distanza = 200000000 / (2 * 2 * pigreco * f)
+
+ad esempio con 0,2 us abbiamo una banda di 0,35 / 0,2 = 1,75MHz
+
+e poi
+distanza = 200000000 / (4 pigreco 1750000) = 9,09 metri
+
+che in effetti è piuttosto simile a 10 metri precedenti.
