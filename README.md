@@ -32,4 +32,4 @@ ad esempio con 0,2 us abbiamo una banda di 0,35 / 0,2 = 1,75MHz
 e poi
 distanza = 200000000 / (4 pigreco 1750000) = 9,09 metri
 
-che in effetti è piuttosto simile a 10 metri precedenti.
+che in effetti è piuttosto simile ai 10 metri della stima precedente.
