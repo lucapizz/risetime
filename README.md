@@ -33,3 +33,15 @@ e poi
 distanza = 200000000 / (4 pigreco 1750000) = 9,09 metri
 
 che in effetti è piuttosto simile ai 10 metri della stima precedente.
+
+#
+# terminazione linee di trasmissione
+La R di terminazione deve coincidere con l'impedenza caratteristica della linea
+che si calcola dall'induttanza a dalla capacità distribuite.
+
+La formula è R = radice di (L[Henry]/ C[Farad])
+
+infatti
+<br>Henry = V * s / A
+<br>Farad = A * s / V
+<br> H/C = (Vs/A) / (As/V) = V/A
