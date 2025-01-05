@@ -15,5 +15,8 @@ essere inferiore a un quarto (1/4) della lunghezza d'onda del segnale.
 lunghezzamax = 200000000 * t / 4
 
 ad esempio se ho un tempo di salita di 0,2 us posso calcolare la lunghezza massima
-pari a 50000000 * 0,0000002 = 10 metri
+pari a
+
+50000000 * 0,0000002 = 10 metri
+
 oltre la quale ho bisogno di terminare la linea.
